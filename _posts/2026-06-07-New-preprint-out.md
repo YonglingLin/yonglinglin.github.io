@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "New preprint out!"
 mathjax: true
 layout: post
 categories: media
