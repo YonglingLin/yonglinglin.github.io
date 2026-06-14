@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "NEWS: Abstract accepted for FUN26 conference!"
 layout: post
 ---
 
