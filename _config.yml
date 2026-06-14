@@ -18,13 +18,14 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: Home Change, sidebaricon: home}
-  - {file: "README.md", title: About me, sidebaricon: address-card}
+  - {file: "Yongling_Lin.pdf", title: CV, sidebaricon: home}
+  - {title: google scholar, url: "https://scholar.google.com/citations?user=d9TGljcAAAAJ"}
+  - {title: Bluesky, url: "https://bsky.app/profile/yongling.bsky.social"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:yongling.lin@ucl.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/YonglingLin"}
-  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/yongling.bsky.social"}
+  - {title: Bluesky, icon: Bluesky, url: "https://bsky.app/profile/yongling.bsky.social"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
