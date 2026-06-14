@@ -25,7 +25,6 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:yongling.lin@ucl.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/YonglingLin"}
-  - {title: Bluesky, icon: Bluesky, url: "https://bsky.app/profile/yongling.bsky.social"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
