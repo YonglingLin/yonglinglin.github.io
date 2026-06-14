@@ -1,5 +1,5 @@
 ---
-title: "Abstract-accepted for MCC26"
+title: "NEWS: Abstract accepted for MCC26 conference"
 layout: post
 ---
 
